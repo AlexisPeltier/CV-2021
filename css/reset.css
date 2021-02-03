@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Comic Neue', sans-serif;
+    color: rgb(52, 96, 216);
+}
+
+html {
+	background-color: black;
+	font-size: 14px;
+}
