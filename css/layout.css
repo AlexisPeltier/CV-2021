@@ -224,8 +224,8 @@ ul#nav li.current a { color: #F06000; }
    font-size: 20px;
 }
 .icon-p-resize {
-   margin-top: 20px;
-   margin-bottom: -34px;
+   margin-top: 25px;
+   margin-bottom: -39px;
 }
 .icon-resize:before { 
    width: 100%;
