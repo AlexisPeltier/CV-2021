@@ -223,6 +223,15 @@ ul#nav li.current a { color: #F06000; }
    margin-right: 15px;
    font-size: 20px;
 }
+.icon-p-resize {
+   margin-top: 81px;
+   margin-bottom: -41px;
+}
+.icon-resize:before { 
+   width: 100%;
+   font-size: 3em; 
+
+}
 
 
 /* ------------------------------------------------------------------ */
